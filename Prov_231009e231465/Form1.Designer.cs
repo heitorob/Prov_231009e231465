@@ -241,7 +241,7 @@
             // 
             this.lblvalort.AutoSize = true;
             this.lblvalort.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblvalort.Location = new System.Drawing.Point(213, 841);
+            this.lblvalort.Location = new System.Drawing.Point(240, 841);
             this.lblvalort.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblvalort.Name = "lblvalort";
             this.lblvalort.Size = new System.Drawing.Size(18, 18);
